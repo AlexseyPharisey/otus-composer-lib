@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace src;
+namespace Aleksey\OtusComposerPackage;
 class PhoneValidatorRU
 {
     const PHONE_LENGTH = 11;
